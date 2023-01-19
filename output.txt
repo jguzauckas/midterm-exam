@@ -1,0 +1,15 @@
+I am 16 years old.
+I have $43.25 in my wallet.
+Hello, World!
+Enter your age: 24 ***
+Enter your friend's age: 30 ***
+Your friend is older than you are. ***
+The character at index 15 is " ".
+The string up to index 7 is "the qui".
+The string from index 17 to the end is "ox jumps over the lazy dog".
+The letter "a" appears 1 time(s).
+The maximum value of the list is 0.87. ***
+The range of the list is 0.793. ***
+Jonathan the 14th is a Male 9 years old Husky. ***
+He is a good boy. ***
+Jonathan the 14th will be 10 years old next year. ***
